@@ -29,15 +29,3 @@ Each folder represents a specific domain, and inside each are projects built as 
 * Strengthen core development fundamentals
 * Track progress across multiple domains
 * Create a strong portfolio for internships and opportunities
-
----
-
-## 📈 Progress Tracking
-
-[![roadmap.sh](https://roadmap.sh/card/wide/690efc78ce70eef65b7f6ce0?variant=dark&roadmaps=)](https://roadmap.sh)
-
----
-
-## 📄 License
-
-This project is open-source and free to use.
