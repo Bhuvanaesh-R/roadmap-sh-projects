@@ -5,15 +5,9 @@ These projects are part of my journey to strengthen core frontend skills, improv
 
 ---
 
-## 🚀 About the folder
+## 🤝 Contribution
 
-This folder contains multiple frontend projects covering:
-
-- HTML, CSS, JavaScript fundamentals
-- Responsive design
-- UI components & layouts
-- Real-world project implementations
-- Best practices in frontend development
+This is a personal learning repository, but suggestions and improvements are always welcome!
 
 ---
 
@@ -21,10 +15,12 @@ This folder contains multiple frontend projects covering:
 
 Below are the original project references from roadmap.sh:
 
-- [single-page-cv](https://roadmap.sh/projects/single-page-cv)
+- [Single Page CV](https://roadmap.sh/projects/single-page-cv)
 
----
+Click any of the images below to view the project folder
 
-## 🤝 Contribution
-
-This is a personal learning repository, but suggestions and improvements are always welcome!
+<p style="text-align: left;">
+  <a href='/frontend/single-page-cv/'>
+    <img width="48%" src="./assets/images/single-page-cv-post.png" alt="Single Page CV Post Image" />
+  </a>
+</p>
