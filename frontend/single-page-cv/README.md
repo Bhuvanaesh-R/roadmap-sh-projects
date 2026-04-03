@@ -1,14 +1,14 @@
 # Single Page CV
 
-[single-page-cv](./screenshot.png)
+![single-page-cv-screenshot](./screenshot.png)
 
 ---
 
 ## Features Implemented
 
-- ✅ Semantic HTML structure (<header>, <section>, etc.)
+- ✅ Semantic HTML structure
 - ✅ Single-page layout
-- ✅ SEO meta tags (description, canonical, etc)
+- ✅ SEO meta tags
 - ✅ Open Graph (OG) tags for social sharing
 - ✅ Favicon integration
 - ✅ Clean and readable HTML structure
